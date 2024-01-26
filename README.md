@@ -14,7 +14,6 @@ After training for 1.1 million steps, the agent demonstrates a remarkable improv
 ## Future Work:
 - Fine-tune hyperparameters to potentially achieve even higher rewards.
 - Explore different neural network architectures to enhance the agent's learning capabilities.
-- Generalize the trained agent's policies to perform well in similar but unseen environments.
 
  ## After Training GIF:
-![After Training GIF](https://im5.ezgif.com/tmp/ezgif-5-9a3599aa13.gif)
+![After Training GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY5MmRwZGEweTVrbTh1YmNhNXM5dm9tOHk2OHM4NWphNjFrbzFtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r3fhPLkSEzbOjkX8Gr/giphy.gif)
